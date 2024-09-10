@@ -6,8 +6,7 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 - [Rúbrica del curso](./documentos/documento-plan-curso.pdf)](https://docs.google.com/document/d/10NQpTOgvEWVPIZPUeiWam-Tj3xgTmVtSZ5q_FVIGEMk/edit?usp=sharing)
 
-- [Sala de clases](https://us02web.zoom.us/j/82462635598?pwd=eUKUBrKGvTmbh6ufidAyZLN2q_KXoC.1)
-> En caso de ser necesario usar ID 824 6263 5598 y clave 54321
+- [Sala de clases](https://us02web.zoom.us/j/82462635598?pwd=eUKUBrKGvTmbh6ufidAyZLN2q_KXoC.1](https://us06web.zoom.us/meeting/register/tZAtfuqgrzMjHNw6VF0Bglyx_RmQp5DyuXnK)
 
 ## Proyecto
 
