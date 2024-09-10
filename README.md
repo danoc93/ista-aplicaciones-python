@@ -12,6 +12,6 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 Los recursos aplicables a cada clase se compartirán en la tabla inferior, se recomienda usar [Google Translate](https://translate.google.com/?sl=en&tl=es&op=websites) cuando sea necesario traducirlas a español.
 
-## Clases Previas
+## Grabaciones Clases Previas
 
 Pendiente
