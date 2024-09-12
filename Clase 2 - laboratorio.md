@@ -48,7 +48,7 @@ estudiante_registrado_en_materia("Daniel", "Biologia") -> False
 
 https://docs.python.org/3/library/typing.html
 
-https://dev.to/rohaquinlop/que-son-los-type-hints-en-python-mejorar-la-calidad-de-tu-codigo-y-hazlo-mas-legible-5e99
+https://fastapi.tiangolo.com/es/python-types/
 
 ## Ajustar el código para usar anotaciones de tipado
 
