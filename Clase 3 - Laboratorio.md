@@ -50,9 +50,10 @@ Pandas 1.x: Esta versión introdujo muchas características fundamentales y se c
 
 Pandas 2.x: Esta versión más reciente incluye mejoras y optimizaciones significativas, como mejor rendimiento, funcionalidad mejorada y soporte para nuevos tipos de datos. Los cambios en Pandas 2.x pueden no ser compatibles con versiones anteriores de Pandas 1.x, por lo que es importante gestionar diferentes versiones
 
-- Instalar una versión específica de `pandas` dentro del entorno virtual.
+- Instalar una versión específica de `pandas` dentro del entorno virtual así como su dependencia numpy.
 
 ```bash
+pip install numpy<2
 pip install pandas==1.5
 ```
 
