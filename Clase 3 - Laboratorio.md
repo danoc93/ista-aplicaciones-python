@@ -120,6 +120,22 @@ deactivate
 
 **Proyecto 1 (usando `pandas` 1.5):**
 
+Activar nuevamente el entorno del primer proyecto
+
+```bash
+# En Windows
+cd ..
+cd project1
+project1_env\Scripts\activate
+
+# En macOS/Linux
+cd ..
+cd project1
+source project1_env/bin/activate
+```
+
+Agregar el archivo principal
+
 ```python
 # project1_script.py
 import pandas as pd
@@ -135,20 +151,6 @@ df = pd.DataFrame({
 
 print("Proyecto 1 - DataFrame de Pandas 1.5:")
 print(df)
-```
-
-Activar nuevamente el entorno
-
-```bash
-# En Windows
-cd ..
-cd project1
-project1_env\Scripts\activate
-
-# En macOS/Linux
-cd ..
-cd project1
-source project1_env/bin/activate
 ```
 
 Ejecutarlo
