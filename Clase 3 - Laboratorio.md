@@ -53,7 +53,7 @@ Pandas 2.x: Esta versión más reciente incluye mejoras y optimizaciones signifi
 - Instalar una versión específica de `pandas` dentro del entorno virtual.
 
 ```bash
-pip install pandas==1.3.0
+pip install pandas==1.5
 ```
 
 ### 4. Creación de un Archivo de Requisitos
@@ -95,7 +95,7 @@ source project2_env/bin/activate
 - Instalar `pandas` 2.
 
 ```bash
-pip install pandas==2.0.3
+pip install pandas==2
 ```
 
 - Generar un archivo `requirements.txt` para el segundo proyecto.
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 ### 7. Demostración de la Importancia
 - Explorar ejecutar fragmentos para cada proyecto usando diferentes versiones de `pandas`.
 
-**Proyecto 1 (usando `pandas` 1.3.0):**
+**Proyecto 1 (usando `pandas` 1.5):**
 
 ```python
 # project1_script.py
@@ -136,11 +136,11 @@ df = pd.DataFrame({
     'B': [4, 5, 6]
 })
 
-print("Proyecto 1 - DataFrame de Pandas 1.3.0:")
+print("Proyecto 1 - DataFrame de Pandas 1.5:")
 print(df)
 ```
 
-**Proyecto 2 (usando `pandas` 2.0.3):**
+**Proyecto 2 (usando `pandas` 2):**
 
 ```python
 # project2_script.py
@@ -155,7 +155,7 @@ df = pd.DataFrame({
     'Y': [10, 11, 12]
 })
 
-print("Proyecto 2 - DataFrame de Pandas 2.0.3:")
+print("Proyecto 2 - DataFrame de Pandas 2:")
 print(df)
 ```
 
