@@ -104,19 +104,16 @@ pip install pandas==2
 pip freeze > requirements.txt
 ```
 
-### 6. Uso del Archivo de Requisitos
-- Usar el archivo `requirements.txt` para instalar dependencias en un nuevo entorno virtual.
+Desactivar el entorno virtual
 
 ```bash
 # En Windows
-python -m venv newenv
-newenv\Scripts\activate
+deactivate
 
 # En macOS/Linux
-python3 -m venv newenv
-source newenv/bin/activate
-pip install -r requirements.txt
+deactivate
 ```
+
 
 ### 7. Demostración de la Importancia
 - Explorar ejecutar fragmentos para cada proyecto usando diferentes versiones de `pandas`.
@@ -140,7 +137,29 @@ print("Proyecto 1 - DataFrame de Pandas 1.5:")
 print(df)
 ```
 
+Activar nuevamente el entorno
+
+```bash
+# En Windows
+cd ..
+cd project1
+project1_env\Scripts\activate
+
+# En macOS/Linux
+cd ..
+cd project1
+source project1_env/bin/activate
+```
+
+Ejecutarlo
+
+```bash
+python project1_script.py
+```
+
 **Proyecto 2 (usando `pandas` 2):**
+
+Desactivar el entorno anterior, y repetir los pasos para ejecutar el segundo proyecto!
 
 ```python
 # project2_script.py
@@ -158,5 +177,3 @@ df = pd.DataFrame({
 print("Proyecto 2 - DataFrame de Pandas 2:")
 print(df)
 ```
-
-Ejecuta el código y asegúrate de que las versiones correctas de pandas están siendo usadas.
