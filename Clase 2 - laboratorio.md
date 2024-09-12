@@ -4,6 +4,8 @@ En este laboratorio la meta es que el estudiante cubra los conceptos de modulos,
 
 El código de este laboratorio debe ser subido a los repositorios de Github creados en el Laboratorio 1 en la carpeta **laboratorio2**
 
+**Los laboratorios no se califican hasta el final del curso y se les asigna la nota entera al subir algo al repostorio, pero lo recomendado es tratar de cubrir todos los conceptos y ejercicios con el fin de reforzar los conocimientos.**
+
 ## Leer la guía de estilo de Python y Google para recomendaciones de código
 [https://peps.python.org/pep-0008/](https://peps.python.org/pep-0008/)
 
