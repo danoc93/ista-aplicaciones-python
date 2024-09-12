@@ -96,6 +96,7 @@ source project2_env/bin/activate
 - Instalar `pandas` 2.
 
 ```bash
+pip install numpy<2
 pip install pandas==2
 ```
 
