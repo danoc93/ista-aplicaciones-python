@@ -1,6 +1,6 @@
 # Laboratorio 3: Gestión de Dependencias de Python con Entornos Virtuales y Archivos de Requisitos
 
-En este laboratorio la meta es que el estudiante cubra los conceptos de gestión de dependencias, entornos virtuales, y descubra plataformas de desarrollo en la nube como Github Codespaces.
+En este laboratorio la meta es que el estudiante cubra los conceptos de gestión de dependencias, entornos virtuales.
 
 El código de este laboratorio debe ser subido a los repositorios de Github creados en el Laboratorio 1 en la carpeta **laboratorio3**
 
