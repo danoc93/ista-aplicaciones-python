@@ -22,7 +22,7 @@ Ya que este laboratorio requiere que creen un repositorio separado con el fin de
    - Crea un archivo `requirements.txt` y añade las dependencias necesarias, en este caso `sqlite3`.
 
 4. **Subir Cambios a GitHub:**
-   - Añade los cambios al repositorio local con `git add .`.
+   - Añade los cambios al repositorio.
 
 5. **Configurar GitHub Codespaces:**
    - Lee la [documentación de GitHub Codespaces](https://docs.github.com/es/codespaces/getting-started/quickstart) para configurar un entorno de desarrollo en la nube.
