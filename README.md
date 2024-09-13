@@ -15,3 +15,5 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 ## Grabaciones Clases Previas
 
 [Clase Sep 10](https://us06web.zoom.us/rec/share/AGNV9deDS4J7ngVoCRRqhQYAkXyKsd63oNiV77G3ozxYa30eeS_FZXnhitcknLu3.SxpGFz4b5M_8nCEY)
+
+[Clase Sep 11](https://us06web.zoom.us/rec/share/Y1Ig3iNYvFDAv-DEhNXLHH5qnH42zYbZYE44ZtiUbEUmVgYB00ANhrM8xzu5Gg34.FS5k7T5Ljg_sxCLR)
