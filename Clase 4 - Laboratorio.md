@@ -10,11 +10,6 @@ Ya que este laboratorio requiere que creen un repositorio separado con el fin de
 
 ## Pasos del Laboratorio:
 
-¡Por supuesto! Aquí tienes el diseño de laboratorio actualizado con una introducción sobre SQLite:
-
----
-
-
 #### Introducción a SQLite
 
 **SQLite** es una biblioteca que implementa un motor de base de datos SQL pequeño, rápido, autónomo, de alta fiabilidad. SQLite es una base de datos a base de archivos locales.
