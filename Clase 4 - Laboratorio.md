@@ -1,6 +1,6 @@
 # Laboratorio 4: Explorando Github Code Spaces y acceso a datos
 
-En este laboratorio la meta es que el estudiante explore como utilizar Github code spaces para realizar las herramientas de acceso a bases de datos en Python.
+En este laboratorio la meta es que el estudiante explore como utilizar Github code spaces para explorar las herramientas de acceso a bases de datos en Python.
 
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
