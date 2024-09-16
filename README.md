@@ -10,7 +10,7 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 - ⚠️ [Proyecto Final](https://docs.google.com/document/d/1hkzx5Q5C1abQ-inu_MrjFMjvnVYR6UJxpH3qd_zbTE0/edit?usp=sharing)
 
-Fecha de entrega: Septiembre 24, 11:59PM
+Fecha de entrega: Septiembre 25, 11:59PM
 
 ## Recursos
 
